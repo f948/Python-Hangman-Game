@@ -1,5 +1,5 @@
 """
-Programmer:Eric
+Programmer:Eric Chen
 Date:12/7/2018
 Purpose:To simulate a hangman guessing game where the user will try to guess all
 the letters in a random word
